@@ -1,0 +1,36 @@
+﻿​
+1.浏览器的内核分别是什么?
+2.Js window对象常用的属性、方法、子对象
+3.如何判断浏览器内核以及版本信息
+4. cookies，sessionStorage 和 localStorage 的区别？
+5.浏览器兼容，如何hack
+6. 讲讲eval、new Function
+7.ajax 同步、异步
+8. 那些操作会造成内存泄漏？
+9.如何进行前端性能优化？
+10. 数组常用的有哪些内置方法？如何copy一个数组，浅copy 深copy
+11.浏览器的重绘与重排，对页面性能的影响，如何减少
+16.vue.js angul hasar.js 双向绑定如何实现的
+17.讲讲CDN，如何清客户端缓存
+18.多个ajax 请求，如何保证多个都执行完毕。
+19.如何去除字符串两端空格
+20.chrome debug 控制台命令有哪些
+21.http请求 常见状态码
+22.讲讲如何处理跨域
+23.字符串转整型，整型转字符串
+24.json转字符串，字符串转json
+25.圆角的线框如何实现
+25.css3新特性和es5新api，对es6了解吗
+26.如何进行js、css 代码压缩
+27.解释下浮动和它的工作原理？清除浮动的技巧
+28.AMD（Modules/Asynchronous-Definition）、CMD（Common Module Definition）规范区别？
+29..call() 和 .apply() 的区别？
+30.XSS是什么，攻击原理，怎么预防。
+31..如何进行错误监控 try catch , window.error
+32.jquery如何获取select选中的文本
+33.vue项目如何优化打包后的js体积
+
+
+12.常去哪些网站？
+13.哪个项目或者工作 收获最大，收获了什么？
+14.移动端 如何做一个适配多个终端的页面
